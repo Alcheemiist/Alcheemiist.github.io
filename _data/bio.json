@@ -1,40 +1,36 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Elmahdi Elaazmi",
+    "label": "Software Developement Student \\ Technician Specialized in automated systemes ",
+    "picture": "https://alcheemiist.github.io/template/images/photo.PNG",
+    "email": "elaazmielmahdi@gmail.com",
+    "phone": "+212675874185",
+    "website": "https://alcheemiist.github.io",
+    "summary": "I am studying for a Certificat in Architect Digital and technology in 1337 Bengruir at the University Mohamed 6 Polytechnical as it part of 42 network. I expect to graduate in Software Engineering, 2022.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "postalCode": "45000",
+      "city": "Ouarzazate",
+      "countryCode": "",
+      "region": "Morocco"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "Alcheemiist",
+        "url": "http://github.com/Alcheemiist"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "elmahdi elaazmi",
+        "url": "http://linkedin.com/in/elmahdi_elaazmi"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "Alchemist",
+        "url": "http://twitter.com/Alchemist"
       },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
+     
     ]
   },
   "interests": [
