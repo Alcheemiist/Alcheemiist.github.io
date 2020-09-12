@@ -2,7 +2,7 @@
   "basics": {
     "name": "Elmahdi Elaazmi",
     "label": "Software Developement Student \\ Technician Specialized in automated systemes ",
-    "picture": "https://alcheemiist.github.io/images/photo.PNG",
+    "picture": "https://alcheemiist.github.io/images/1337.jpeg",
     "email": "elaazmielmahdi@gmail.com",
     "phone": "+212675874185",
     "website": "https://alcheemiist.github.io",
@@ -29,52 +29,33 @@
         "network": "twitter",
         "username": "Alchemist",
         "url": "http://twitter.com/Alchemist"
-      },
-     
+      }
     ]
   },
   "interests": [
     {
       "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "keywords": ["Arduino", "TI MSP430"]
     },
     {
       "name": "data mining",
-      "keywords": [
-      ]
+      "keywords": []
     },
     {
       "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "keywords": []
     }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
       "level": "",
-      "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
+      "keywords": ["C", "C++", "Java", "Javascript", "Assembly", "Common Lisp"]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
-      ]
+      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad"]
     }
   ],
   "education": [
@@ -85,8 +66,7 @@
       "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
